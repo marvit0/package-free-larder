@@ -1,0 +1,58 @@
+.aim, .help {
+    text-align: center;
+}
+
+.emphasis {
+    font-size: 30px;
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.no-margin {
+    margin-bottom: 0;
+}
+
+.strip {
+    background: rgba(0, 255, 0, 0.1);
+}
+
+.big-icon {
+    font-size: 50px;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bottom-padding {
+    padding-bottom: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+div.cta {
+    width: 100%;
+    text-align: center;
+}
+
+a.cta {
+    background-color: rgba(255, 255, 255, 0.25);
+    color: white;
+    border-radius: 5%;
+    width: 250px;
+    position: relative;
+    padding-top: 6px;
+    display: inline-block;
+}
+
+.cta span {
+    font-size: 2em;
+    top: -7px;
+    margin-left: 10px;
+    position: relative;
+}
