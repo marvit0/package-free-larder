@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://marvit0.github.io/package-free-larder/"
 languageCode = "en-us"
 title = "Pakage Free Larder"
 theme = "ananke"

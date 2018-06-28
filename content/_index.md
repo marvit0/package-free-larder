@@ -1,6 +1,6 @@
 ---
 title: "The Package Free Larder"
-featured_image: '/images/food-hero.jpg'
+featured_image: 'images/food-hero.jpg'
 description: "Freeing Portsmouth from Plastic."
 ---
 

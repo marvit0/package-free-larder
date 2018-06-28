@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Pakage Free Larder</title>
-    <link>http://example.org/post/</link>
+    <link>https://marvit0.github.io/package-free-larder/post/</link>
     <description>Recent content in Articles on Pakage Free Larder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marvit0.github.io/package-free-larder/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

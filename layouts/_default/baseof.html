@@ -19,7 +19,7 @@
 
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
     {{ with $stylesheet.css }}
-      <link href="{{ relURL (printf "%s%s" "dist/" .) }}" rel="stylesheet">
+      <link href="{{ . }}" rel="stylesheet">
     {{ end }}
 
     {{ range .Site.Params.custom_css }}
@@ -48,7 +48,7 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
-    <link rel="stylesheet" href="../css/custom.css">
+    <link rel="stylesheet" href="css/custom.css">
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
