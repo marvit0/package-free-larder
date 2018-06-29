@@ -29,17 +29,17 @@ description: "Freeing Portsmouth from Plastic."
     <div class="col-sm-12 col-md-4 aim first">
         <i class="big-icon fas fa-trash-alt"></i>
         <p><strong>Create a zero waste supermarket</strong></p> 
-        <p>free of packaging where people can buy dry goods in bulk, cleaning products and toiletries and fresh produce box collection scheme from local suppliers</p>
+        <p>Package-free foods where people can buy dry goods in bulk, cleaning products. Alongside fresh produce box collection scheme from local suppliers.</p>
     </div>
     <div class="col-sm-12 col-md-4 aim second">
         <i class="big-icon fas fa-trophy"></i>
         <p><strong>Champion and support</strong></p>
-        <p>the ending of household waste going to landfill and incinerators in Portsmouth by 2025</p>
+        <p>The ending of household waste going to landfill and incinerators in Portsmouth by 2025.</p>
     </div>
     <div class="col-sm-12 col-md-4 aim third">
         <i class="big-icon fab fa-slideshare"></i>
         <p><strong>Change attitudes and reliance</strong></p>
-        <p>on single use plastic everywhere, in recognition of the consequences on our beautiful planet and responsibility we all have to care for it</p>
+        <p>Promote single use plastic everywhere, in recognition of the consequences on our beautiful planet and responsibility we all have to care for it.</p>
     </div>
   </div>
   <div class="row">
