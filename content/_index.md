@@ -71,7 +71,9 @@ description: "Freeing Portsmouth from Plastic."
       <strong>Like our Facebook Page</strong/>
     </div>
     <div class="col-sm-12 col-md-4 help second">
+      <a href="https://www.facebook.com/events/1087696878055125/">
         <i class="big-icon fas fa-calendar-alt"></i>
+       </a>
         <strong>Come along to the very first Package Free Meetup</strong>
     </div>
     <div class="col-sm-12 col-md-4 help third">
