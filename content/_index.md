@@ -6,13 +6,13 @@ description: "Freeing Portsmouth from Plastic."
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12">
+    <div class="col-sm-12 emphasis">
         Portsmouth finds itself in the midst of exciting times.  
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-12">
-        The tide is turning and we are no longer willing to accept unnecessary packaging and single use plastic as an inevitable fact of shopping for our groceries. 
+    <div class="col-sm-12 emphasis">
+        The tide is turning and we are no longer willing to accept unnecessary packaging and single-use plastic as an inevitable fact of shopping for our groceries. 
     </div>
   </div>
   <div class="row">
@@ -28,7 +28,7 @@ description: "Freeing Portsmouth from Plastic."
   <div class="row strip bottom-padding">
     <div class="col-sm-12 col-md-4 aim first">
         <i class="big-icon fas fa-trash-alt"></i>
-        <p><strong>Create a zero waste supermarket</strong></p> 
+        <p><strong>Create a Zero Waste Supermarket</strong></p> 
         <p>Package-free foods where people can buy dry goods in bulk, cleaning products. Alongside fresh produce box collection scheme from local suppliers.</p>
     </div>
     <div class="col-sm-12 col-md-4 aim second">
@@ -44,17 +44,18 @@ description: "Freeing Portsmouth from Plastic."
   </div>
   <div class="row">
     <div class="col-sm-12">
-        <h2>So what next?</h2>
+        <h2>So what's next?</h2>
     </div>
   </div>
   <div class="row">
     <div class="col-sm-12">
-        To begin…. we are looking for people to join our team. Our vision is to create a community led packaging free supermarket that is run by the community for the community.
+        <p>To begin…. we are looking for people to join our team.</p> 
+        <p>Our vision is to create a <strong>community-led packaging-free supermarket</strong> that is run by the community for the community.</p>
     </div>
   </div>
   <div class="row">
     <div class="col-sm-12">
-        We are already 400 people strong and we are looking to increase our number to 1000 by September 2018. 
+        We are already 400 people strong and we are looking to increase our number to 1,000 by September 2018. 
     </div>
   </div>
   <div class="row strip no-margin">
@@ -64,8 +65,10 @@ description: "Freeing Portsmouth from Plastic."
   </div>
   <div class="row strip bottom-padding">
     <div class="col-sm-12 col-md-4 help first">
-        <i class="big-icon fas fa-thumbs-up"></i>
-        <strong>Like our Facebook Page</strong/>
+      <a href="https://www.facebook.com/The-Package-Free-Larder-958255587680747">
+          <i class="big-icon fas fa-thumbs-up"></i>
+      </a>
+      <strong>Like our Facebook Page</strong/>
     </div>
     <div class="col-sm-12 col-md-4 help second">
         <i class="big-icon fas fa-calendar-alt"></i>
