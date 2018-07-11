@@ -50,7 +50,7 @@ description: "Freeing Portsmouth from Plastic."
   <div class="row">
     <div class="col-sm-12">
         <p>To begin…. we are looking for people to join our team.</p> 
-        <p>Our vision is to create a <strong>community-led packaging-free supermarket</strong> that is run by the community for the community.</p>
+        <p>Our vision is to create a <strong>community-led packaging-free supermarket</strong> that is run by the community... for the community.</p>
     </div>
   </div>
   <div class="row">
