@@ -87,7 +87,9 @@ description: "Freeing Portsmouth from Plastic."
     </div>
   </div>
   <div class="row bottom-padding">  
-    </div><div class="col-sm-12 col-md-6 agenda">
+    <div class="col-sm-12 col-md-3 agenda">
+   </div>
+    <div class="col-sm-12 col-md-6 agenda">
       <p><strong>Date:</strong> 15th September <strong>Time:</strong>19:00</p>
       <p><strong>Venue:</strong> Southsea Coffee Co.</p>
       <p><strong>Agenda</strong></p> 
@@ -99,7 +101,6 @@ description: "Freeing Portsmouth from Plastic."
         <li>Community engagement</li>
       </ul>
     </div>
-    <div class="col-sm-12 col-md-6 picture">
-      <img src="/images/Southsea-Coffee-Co.jpg" alt="Southsea Coffee Co">
+    <div class="col-sm-12 col-md-3 picture">
     </div>
 </div>
