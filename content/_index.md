@@ -100,6 +100,6 @@ description: "Freeing Portsmouth from Plastic."
       </ul>
     </div>
     <div class="col-sm-12 col-md-6 picture">
-      <img src="/images/Southsea-Coffee-Co.jpg" alt="Italian Trulli">
+      <img src="/images/Southsea-Coffee-Co.jpg" alt="Southsea Coffee Co">
     </div>
 </div>
