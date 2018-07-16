@@ -1,9 +1,13 @@
+.agenda {
+    text-align: left; 
+}
+
 .aim, .help {
     text-align: center;
 }
 
 .emphasis {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
 }
 
