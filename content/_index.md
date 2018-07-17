@@ -83,14 +83,14 @@ description: "Freeing Portsmouth from Plastic."
   </div>
   <div class="row">
     <div class="col-sm-12">
-        <h2>Event: Intial Community Meetup | 15th September</h2>
+        <a href="https://www.facebook.com/events/1087696878055125/"><h2>Event: Intial Community Meetup | 14th September</h2></a>
     </div>
   </div>
   <div class="row bottom-padding">  
     <div class="col-sm-12 col-md-3 agenda">
    </div>
     <div class="col-sm-12 col-md-6 agenda">
-      <p><strong>Date:</strong> 15th September <strong>Time:</strong>19:00</p>
+      <p><strong>Date:</strong> 14th September <strong>Time:</strong>19:00</p>
       <p><strong>Venue:</strong> Southsea Coffee Co.</p>
       <p><strong>Agenda</strong></p> 
       <ul>
