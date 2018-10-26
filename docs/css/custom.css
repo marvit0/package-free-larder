@@ -60,3 +60,13 @@ a.cta {
     margin-left: 10px;
     position: relative;
 }
+
+.mc-form {
+    margin-top: 10px;
+}
+
+.mc-form button {
+    background-color: rgba(0, 255, 0, 0.1);
+    font-weight: bold;
+    border-color: rgb(85, 85, 85);
+}
